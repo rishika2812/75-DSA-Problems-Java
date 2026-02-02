@@ -1,14 +1,14 @@
 # 75-DSA-Problems-Java
 DSA practice – 75 problem challenge (Java)
 
-# ✅ 75 Days DSA Checklist (Java)
+# 75 Days DSA Checklist (Java)
 
 This checklist tracks my progress solving **75 essential DSA problems**.
 Each problem is solved using **Java**, with optimized approaches and explanations.
 
----
 
-## 🟦 Arrays & Hashing
+
+## Arrays & Hashing
 - [ ] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
@@ -22,7 +22,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟨 Bit Manipulation
+##  Bit Manipulation
 - [ ] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
@@ -31,7 +31,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟩 Dynamic Programming
+##  Dynamic Programming
 - [ ] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
@@ -46,7 +46,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟪 Graphs
+##  Graphs
 - [ ] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
@@ -58,7 +58,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟧 Intervals
+##  Intervals
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
@@ -67,7 +67,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟥 Linked List
+##  Linked List
 - [ ] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
@@ -77,7 +77,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟫 Matrix
+##  Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [ ] Rotate Image
@@ -85,14 +85,14 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟦 Sliding Window
+##  Sliding Window
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
 
 ---
 
-## 🟩 Strings
+##  Strings
 - [ ] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
@@ -103,7 +103,7 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟪 Trees
+##  Trees
 - [ ] Maximum Depth of Binary Tree
 - [ ] Same Tree
 - [ ] Invert / Flip Binary Tree
@@ -118,34 +118,23 @@ Each problem is solved using **Java**, with optimized approaches and explanation
 
 ---
 
-## 🟧 Trie
+## Trie
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Add and Search Word
 - [ ] Word Search II
 
 ---
 
-## 🟥 Heap / Priority Queue
+##  Heap / Priority Queue
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
 
 ---
 
-## 🎯 Progress
+##  Progress
 - Total Problems: **75**
 - Solved: **0 / 75**
-- Status: ⏳ In Progress
+- Status:  In Progress
 
----
-
-## ✨ Goal
-> Solve consistently.  
-> Focus on patterns.  
-> Become placement-ready.
-
----
-
-## 👩‍💻 Author
 **Rishika Theretupally**  
 B.Tech CSE | Class of 2027  
-
